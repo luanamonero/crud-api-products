@@ -13,7 +13,7 @@ Essa API, possui alguns endpoints (seguindo os princípios do REST) que estão c
 
 # Ferramentas usadas 🧰
 
- 🔨 Estè projeto foi feito com Node.js utilizando TypeScript.
+ 🔨 Este projeto foi feito com Node.js utilizando TypeScript.
  
 ---
 
