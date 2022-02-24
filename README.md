@@ -94,10 +94,10 @@ CREATE TABLE Trybesmith.Products (
 ---
 
 
-4. Inicie o projeto
+5. Inicie o projeto
   * `npm start `
   * `npm run dev` caso queria rodar o projeto através do nodemon
   
-5. Acesse as rotas através de softwares como Postman e Insomnia através do endereço:
+6. Acesse as rotas através de softwares como Postman e Insomnia através do endereço:
   * `http://localhost:3000`
 ---
